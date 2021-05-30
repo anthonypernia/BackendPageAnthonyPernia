@@ -17,4 +17,8 @@ CREATE TABLE blogs
 );
 
 
-insert into blogs (title, body, author)values('title cualquiera2222', 'body cualquiera2222', 'autor cualq2222')
+
+insert into blogs (title, body, author)values('title cualquiera1', 'body cualquiera1', 'autor cualq1');
+insert into blogs (title, body, author)values('title cualquiera2222', 'body cualquiera2222', 'autor cualq2222');
+insert into blogs (title, body, author)values('title cualquiera333', 'body cualquiera333', 'autor cualq3333');
+insert into blogs (title, body, author)values('title otra', 'body otra', 'autor otra');
